@@ -1,16 +1,12 @@
-# geometry4Sharp
+# Geometry4Unity (_geometry4Sharp_)
 
 Open-Source (Boost-license) C# library for geometric computing. 
 
-geometry4Sharp is a fork of geometry3sharp
-
-
-[A Nuget Package is not aviable yet] . This package will be updated from the main branch.
-
-Questions? Contact New Wheel Techology [@NewWheelTech](https://twitter.com/NewWheelTech)) 
-
+Geometry4Unity is a fork of Geometry4Sharp, and geometry4sharp is a fork of Geometry3Sharp
 
 # Credits
+
+New Wheel Techology for the maintained geometry4sharp [@NewWheelTech](https://twitter.com/NewWheelTech)) 
 
 Ryan Schmidt for the orginal geometry3sharp [@rms80](http://www.twitter.com/rms80)
 
@@ -20,7 +16,6 @@ The **MeshSignedDistanceGrid** class was implemented based on the C++ [SDFGen](h
 
 
 # Main Classes
-
 ## Core
 
 - **DVector**: indexed list with vector-style interface, but internally stored as separate blocks of memory
