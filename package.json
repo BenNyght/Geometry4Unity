@@ -1,0 +1,14 @@
+{
+    "name": "com.bennyght.geometry4unity",
+    "version": "1.2.3",
+    "displayName": "Geometry 4 Unity",
+    "description": "Fork of Geometry4Sharp. C# Library (Converted to Unity Package) for 2D/3D geometric computation, mesh algorithms, and so on. Boost license.",
+    "documentationUrl": "https://github.com/BenNyght/Geometry4Unity",
+    "changelogUrl": "https://github.com/BenNyght/Geometry4Unity",
+    "licensesUrl": "https://github.com/BenNyght/Geometry4Unity?tab=License-1-ov-file",
+   "keywords": [
+      "Geometry",
+      "Mesh",
+      "Algorithms"
+    ]
+  }
